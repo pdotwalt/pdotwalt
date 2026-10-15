@@ -9,7 +9,7 @@ Uni-Infos stecken in vielen Quellen. Studium Autopilot führt sie stündlich per
 
 <img src="quellen.png" alt="Verteilte Uni-Infos an einem Ort: Uni-Webseiten, Prüfungsamt, Fachbereich und Lehrstühle, Fachschaft, Hochschulsport, Bibliothek, Sprachenzentrum, Newsletter, Alma, ILIAS und Uni-Postfach laufen in einen stündlichen KI-Abgleich und landen übersichtlich in Obsidian: Dashboard, Termine und Fristen, Stundenplan, Noten und ECTS" width="100%">
 
-<img src="https://raw.githubusercontent.com/studium-autopilot/ecoba/main/docs/bilder/vorschau-dashboard.png" alt="Dashboard von Studium Autopilot am Computer und auf dem iPhone" width="100%">
+<img src="dashboard.png" alt="Dashboard von Studium Autopilot am Computer und auf dem iPhone" width="100%">
 
 Kostenlos · ohne Konto · ohne Tracking · [Vorlage](https://github.com/studium-autopilot/ecoba) · [geprüfte Daten](https://github.com/studium-autopilot/ecoba-daten)
 
