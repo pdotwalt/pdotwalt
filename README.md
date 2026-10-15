@@ -9,7 +9,7 @@ Uni-Infos liegen an vielen Stellen: Uni-Webseiten, Prüfungsamt, Fachschaft, Kal
 diese **unterschiedlichen Datenquellen mit KI zusammen** und zeigt sie **übersichtlich an einem Ort**, als kostenlose
 Vorlage für Obsidian auf Handy, Tablet und Computer.
 
-<img src="diagramm.png" alt="So entstehen die Daten: viele Uni-Quellen, KI führt zusammen, automatische Prüfung, geprüfte Daten, übersichtlich in Obsidian" width="800">
+<img src="quellen.png" alt="Verteilte Uni-Infos an einem Ort: Uni-Webseiten, Prüfungsamt, Fachbereich und Lehrstühle, Fachschaft, Hochschulsport, Bibliothek, Sprachenzentrum, Newsletter, Alma, ILIAS und Uni-Postfach laufen in einen stündlichen KI-Abgleich und landen übersichtlich in Obsidian: Dashboard, Termine und Fristen, Stundenplan, Noten und ECTS" width="900">
 
 - **Datenquellen zusammenführen:** Ein Server gleicht stündlich öffentliche Uni-Quellen mit KI ab und erkennt neue oder
   geänderte Termine und Fristen.
